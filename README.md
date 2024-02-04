@@ -30,7 +30,6 @@ The fill rate for a busline on a given day represents the percentage of occupied
 Last but not least we are asked to summarize what we've learned from the data and what we think we should explore and focus on next, and why.
 
 <br>
-<br>
-<br>
+
 
 This project was done using Python and SQL for Python as it has been required. Any sensitive or personal data were encoded for privacy regards.
